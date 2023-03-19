@@ -13,4 +13,5 @@ n, m, k = int(input('Введите кол-во долек шоколада в �
 
 if k % n == 0 or k % m == 0:
     print('Yes')
-else: print('No')
+else: 
+    print('No')
