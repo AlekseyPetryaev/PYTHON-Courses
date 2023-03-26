@@ -63,7 +63,7 @@
 
 # print(disctionary.items())
 # for (k,v) in disctionary.items():
-#     print(k, v)   #(k) это ключ покоторому будем искать, v значение 
+#     print(k, v)   #(k) это ключ покоторому будем и скать, v значение 
 
 # dict_items([('up', '↑'), ('left', '←'), ('down', '↓'), ('right', '→')])
 # up ↑
