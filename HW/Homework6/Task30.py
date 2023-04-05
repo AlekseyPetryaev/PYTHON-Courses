@@ -17,3 +17,12 @@ for i in range(n):
 # Введите число d: 2
 # Введите число n: 5
 # 7 9 11 13 15 
+
+
+# Вариант 2
+
+a1 = int(input())
+d = int(input())
+n = int(input())
+for i in range(n):
+    print(a1 + i * d)
